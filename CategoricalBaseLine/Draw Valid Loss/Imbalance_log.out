@@ -1,0 +1,683 @@
+Preparing data......
+Train data length =  287651
+Valid data length =  4000
+Train iteration per epoch =  1124
+Valid iteration per epoch =  16
+Preparing net......
+Start Training......
+[1,   100] loss: 1.585, lr: 0.010000000
+[1,   200] loss: 1.474, lr: 0.010000000
+[1,   300] loss: 1.469, lr: 0.010000000
+[1,   400] loss: 1.459, lr: 0.010000000
+[1,   500] loss: 1.357, lr: 0.010000000
+[1,   600] loss: 1.208, lr: 0.010000000
+[1,   700] loss: 1.164, lr: 0.010000000
+[1,   800] loss: 1.122, lr: 0.010000000
+[1,   900] loss: 1.118, lr: 0.010000000
+[1,  1000] loss: 1.105, lr: 0.010000000
+[1,  1100] loss: 1.085, lr: 0.010000000
+[1,  1124] loss: 1.084, lr: 0.010000000
+Valid Epoch[0] Loss: 2.469, MA: 0.2225, Accuracy: 0.2225
+Accuracy of   [0] : 87 %
+Accuracy of   [1] : 90 %
+Accuracy of   [2] :  0 %
+Accuracy of   [3] :  0 %
+Accuracy of   [4] :  0 %
+Accuracy of   [5] :  0 %
+Accuracy of   [6] :  0 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[2,   100] loss: 1.063, lr: 0.010000000
+[2,   200] loss: 1.057, lr: 0.010000000
+[2,   300] loss: 1.037, lr: 0.010000000
+[2,   400] loss: 1.010, lr: 0.010000000
+[2,   500] loss: 1.000, lr: 0.010000000
+[2,   600] loss: 0.966, lr: 0.010000000
+[2,   700] loss: 0.964, lr: 0.010000000
+[2,   800] loss: 0.940, lr: 0.010000000
+[2,   900] loss: 0.927, lr: 0.010000000
+[2,  1000] loss: 0.922, lr: 0.010000000
+[2,  1100] loss: 0.905, lr: 0.010000000
+[2,  1124] loss: 0.904, lr: 0.010000000
+Valid Epoch[1] Loss: 2.124, MA: 0.3180, Accuracy: 0.3180
+Accuracy of   [0] : 72 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] :  4 %
+Accuracy of   [3] : 28 %
+Accuracy of   [4] :  1 %
+Accuracy of   [5] :  0 %
+Accuracy of   [6] : 54 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[3,   100] loss: 0.898, lr: 0.010000000
+[3,   200] loss: 0.885, lr: 0.010000000
+[3,   300] loss: 0.874, lr: 0.010000000
+[3,   400] loss: 0.868, lr: 0.010000000
+[3,   500] loss: 0.853, lr: 0.010000000
+[3,   600] loss: 0.860, lr: 0.010000000
+[3,   700] loss: 0.844, lr: 0.010000000
+[3,   800] loss: 0.834, lr: 0.010000000
+[3,   900] loss: 0.836, lr: 0.010000000
+[3,  1000] loss: 0.834, lr: 0.010000000
+[3,  1100] loss: 0.822, lr: 0.010000000
+[3,  1124] loss: 0.811, lr: 0.010000000
+Valid Epoch[2] Loss: 2.161, MA: 0.3182, Accuracy: 0.3182
+Accuracy of   [0] : 81 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 17 %
+Accuracy of   [3] : 26 %
+Accuracy of   [4] :  3 %
+Accuracy of   [5] :  0 %
+Accuracy of   [6] : 31 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[4,   100] loss: 0.811, lr: 0.010000000
+[4,   200] loss: 0.824, lr: 0.010000000
+[4,   300] loss: 0.801, lr: 0.010000000
+[4,   400] loss: 0.797, lr: 0.010000000
+[4,   500] loss: 0.794, lr: 0.010000000
+[4,   600] loss: 0.797, lr: 0.010000000
+[4,   700] loss: 0.790, lr: 0.010000000
+[4,   800] loss: 0.786, lr: 0.010000000
+[4,   900] loss: 0.791, lr: 0.010000000
+[4,  1000] loss: 0.775, lr: 0.010000000
+[4,  1100] loss: 0.770, lr: 0.010000000
+[4,  1124] loss: 0.799, lr: 0.010000000
+Valid Epoch[3] Loss: 1.895, MA: 0.3720, Accuracy: 0.3720
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 92 %
+Accuracy of   [2] : 37 %
+Accuracy of   [3] : 27 %
+Accuracy of   [4] : 15 %
+Accuracy of   [5] :  0 %
+Accuracy of   [6] : 46 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[5,   100] loss: 0.773, lr: 0.010000000
+[5,   200] loss: 0.760, lr: 0.010000000
+[5,   300] loss: 0.763, lr: 0.010000000
+[5,   400] loss: 0.766, lr: 0.010000000
+[5,   500] loss: 0.770, lr: 0.010000000
+[5,   600] loss: 0.766, lr: 0.010000000
+[5,   700] loss: 0.765, lr: 0.010000000
+[5,   800] loss: 0.755, lr: 0.010000000
+[5,   900] loss: 0.759, lr: 0.010000000
+[5,  1000] loss: 0.749, lr: 0.010000000
+[5,  1100] loss: 0.746, lr: 0.010000000
+[5,  1124] loss: 0.760, lr: 0.010000000
+Valid Epoch[4] Loss: 1.798, MA: 0.3840, Accuracy: 0.3840
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 92 %
+Accuracy of   [2] : 38 %
+Accuracy of   [3] : 25 %
+Accuracy of   [4] : 15 %
+Accuracy of   [5] :  0 %
+Accuracy of   [6] : 57 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[6,   100] loss: 0.759, lr: 0.010000000
+[6,   200] loss: 0.736, lr: 0.010000000
+
+Continue Training ......
+
+Preparing data......
+Train data length =  287651
+Valid data length =  4000
+Train iteration per epoch =  1124
+Valid iteration per epoch =  16
+Preparing net......
+Loading previous net......
+Start Training......
+/home/sh/anaconda/envs/tftest/lib/python3.6/site-packages/torch/optim/lr_scheduler.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  "https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate", UserWarning)
+[6,   100] loss: 0.743, lr: 0.010000000
+[6,   200] loss: 0.732, lr: 0.010000000
+[6,   300] loss: 0.753, lr: 0.010000000
+[6,   400] loss: 0.743, lr: 0.010000000
+[6,   500] loss: 0.754, lr: 0.010000000
+[6,   600] loss: 0.742, lr: 0.010000000
+[6,   700] loss: 0.734, lr: 0.010000000
+[6,   800] loss: 0.737, lr: 0.010000000
+[6,   900] loss: 0.743, lr: 0.010000000
+[6,  1000] loss: 0.728, lr: 0.010000000
+[6,  1100] loss: 0.733, lr: 0.010000000
+[6,  1124] loss: 0.736, lr: 0.010000000
+Valid Epoch[5] Loss: 1.917, MA: 0.3830, Accuracy: 0.3830
+Accuracy of   [0] : 83 %
+Accuracy of   [1] : 90 %
+Accuracy of   [2] : 41 %
+Accuracy of   [3] : 25 %
+Accuracy of   [4] : 15 %
+Accuracy of   [5] :  1 %
+Accuracy of   [6] : 49 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[7,   100] loss: 0.722, lr: 0.010000000
+[7,   200] loss: 0.733, lr: 0.010000000
+[7,   300] loss: 0.736, lr: 0.010000000
+[7,   400] loss: 0.717, lr: 0.010000000
+[7,   500] loss: 0.728, lr: 0.010000000
+[7,   600] loss: 0.728, lr: 0.010000000
+[7,   700] loss: 0.722, lr: 0.010000000
+[7,   800] loss: 0.719, lr: 0.010000000
+[7,   900] loss: 0.726, lr: 0.010000000
+[7,  1000] loss: 0.714, lr: 0.010000000
+[7,  1100] loss: 0.725, lr: 0.010000000
+[7,  1124] loss: 0.722, lr: 0.010000000
+Valid Epoch[6] Loss: 1.748, MA: 0.4272, Accuracy: 0.4273
+Accuracy of   [0] : 71 %
+Accuracy of   [1] : 94 %
+Accuracy of   [2] : 47 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 28 %
+Accuracy of   [5] :  5 %
+Accuracy of   [6] : 59 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[8,   100] loss: 0.718, lr: 0.010000000
+[8,   200] loss: 0.714, lr: 0.010000000
+[8,   300] loss: 0.716, lr: 0.010000000
+[8,   400] loss: 0.712, lr: 0.010000000
+[8,   500] loss: 0.692, lr: 0.010000000
+[8,   600] loss: 0.710, lr: 0.010000000
+[8,   700] loss: 0.722, lr: 0.010000000
+[8,   800] loss: 0.713, lr: 0.010000000
+[8,   900] loss: 0.697, lr: 0.010000000
+[8,  1000] loss: 0.712, lr: 0.010000000
+[8,  1100] loss: 0.707, lr: 0.010000000
+[8,  1124] loss: 0.727, lr: 0.010000000
+Valid Epoch[7] Loss: 1.748, MA: 0.4090, Accuracy: 0.4090
+Accuracy of   [0] : 75 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 50 %
+Accuracy of   [3] : 42 %
+Accuracy of   [4] : 18 %
+Accuracy of   [5] :  4 %
+Accuracy of   [6] : 43 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[9,   100] loss: 0.694, lr: 0.010000000
+[9,   200] loss: 0.695, lr: 0.010000000
+[9,   300] loss: 0.704, lr: 0.010000000
+[9,   400] loss: 0.700, lr: 0.010000000
+[9,   500] loss: 0.700, lr: 0.010000000
+[9,   600] loss: 0.701, lr: 0.010000000
+[9,   700] loss: 0.714, lr: 0.010000000
+[9,   800] loss: 0.690, lr: 0.010000000
+[9,   900] loss: 0.696, lr: 0.010000000
+[9,  1000] loss: 0.696, lr: 0.010000000
+[9,  1100] loss: 0.695, lr: 0.001000000
+[9,  1124] loss: 0.678, lr: 0.001000000
+Valid Epoch[8] Loss: 1.773, MA: 0.4195, Accuracy: 0.4195
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 92 %
+Accuracy of   [2] : 44 %
+Accuracy of   [3] : 32 %
+Accuracy of   [4] : 26 %
+Accuracy of   [5] :  5 %
+Accuracy of   [6] : 56 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[10,   100] loss: 0.663, lr: 0.001000000
+[10,   200] loss: 0.662, lr: 0.001000000
+[10,   300] loss: 0.663, lr: 0.001000000
+[10,   400] loss: 0.659, lr: 0.001000000
+[10,   500] loss: 0.676, lr: 0.001000000
+[10,   600] loss: 0.650, lr: 0.001000000
+[10,   700] loss: 0.666, lr: 0.001000000
+[10,   800] loss: 0.669, lr: 0.001000000
+[10,   900] loss: 0.661, lr: 0.001000000
+[10,  1000] loss: 0.667, lr: 0.001000000
+[10,  1100] loss: 0.659, lr: 0.001000000
+[10,  1124] loss: 0.658, lr: 0.001000000
+Valid Epoch[9] Loss: 1.762, MA: 0.4287, Accuracy: 0.4288
+Accuracy of   [0] : 81 %
+Accuracy of   [1] : 92 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 32 %
+Accuracy of   [4] : 28 %
+Accuracy of   [5] :  9 %
+Accuracy of   [6] : 53 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[11,   100] loss: 0.661, lr: 0.001000000
+[11,   200] loss: 0.654, lr: 0.001000000
+[11,   300] loss: 0.665, lr: 0.001000000
+[11,   400] loss: 0.664, lr: 0.001000000
+[11,   500] loss: 0.648, lr: 0.001000000
+[11,   600] loss: 0.663, lr: 0.001000000
+[11,   700] loss: 0.659, lr: 0.001000000
+[11,   800] loss: 0.648, lr: 0.001000000
+[11,   900] loss: 0.654, lr: 0.001000000
+[11,  1000] loss: 0.664, lr: 0.001000000
+[11,  1100] loss: 0.649, lr: 0.001000000
+[11,  1124] loss: 0.666, lr: 0.001000000
+Valid Epoch[10] Loss: 1.735, MA: 0.4293, Accuracy: 0.4293
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 43 %
+Accuracy of   [3] : 37 %
+Accuracy of   [4] : 28 %
+Accuracy of   [5] :  9 %
+Accuracy of   [6] : 51 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[12,   100] loss: 0.652, lr: 0.001000000
+[12,   200] loss: 0.643, lr: 0.001000000
+[12,   300] loss: 0.650, lr: 0.001000000
+[12,   400] loss: 0.658, lr: 0.001000000
+[12,   500] loss: 0.656, lr: 0.001000000
+[12,   600] loss: 0.650, lr: 0.001000000
+[12,   700] loss: 0.652, lr: 0.001000000
+[12,   800] loss: 0.652, lr: 0.001000000
+[12,   900] loss: 0.658, lr: 0.001000000
+[12,  1000] loss: 0.653, lr: 0.001000000
+[12,  1100] loss: 0.659, lr: 0.001000000
+[12,  1124] loss: 0.670, lr: 0.001000000
+Valid Epoch[11] Loss: 1.724, MA: 0.4255, Accuracy: 0.4255
+Accuracy of   [0] : 80 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 42 %
+Accuracy of   [3] : 33 %
+Accuracy of   [4] : 27 %
+Accuracy of   [5] : 11 %
+Accuracy of   [6] : 51 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[13,   100] loss: 0.639, lr: 0.001000000
+[13,   200] loss: 0.645, lr: 0.001000000
+[13,   300] loss: 0.665, lr: 0.001000000
+[13,   400] loss: 0.659, lr: 0.001000000
+[13,   500] loss: 0.644, lr: 0.001000000
+[13,   600] loss: 0.651, lr: 0.001000000
+[13,   700] loss: 0.651, lr: 0.001000000
+[13,   800] loss: 0.651, lr: 0.001000000
+[13,   900] loss: 0.646, lr: 0.001000000
+[13,  1000] loss: 0.653, lr: 0.001000000
+[13,  1100] loss: 0.650, lr: 0.001000000
+[13,  1124] loss: 0.670, lr: 0.001000000
+Valid Epoch[12] Loss: 1.714, MA: 0.4250, Accuracy: 0.4250
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 45 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 24 %
+Accuracy of   [5] : 10 %
+Accuracy of   [6] : 53 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[14,   100] loss: 0.645, lr: 0.001000000
+[14,   200] loss: 0.652, lr: 0.001000000
+[14,   300] loss: 0.656, lr: 0.001000000
+[14,   400] loss: 0.649, lr: 0.001000000
+[14,   500] loss: 0.649, lr: 0.001000000
+[14,   600] loss: 0.653, lr: 0.001000000
+[14,   700] loss: 0.637, lr: 0.001000000
+[14,   800] loss: 0.653, lr: 0.001000000
+[14,   900] loss: 0.651, lr: 0.001000000
+[14,  1000] loss: 0.643, lr: 0.001000000
+[14,  1100] loss: 0.646, lr: 0.001000000
+[14,  1124] loss: 0.640, lr: 0.001000000
+Valid Epoch[13] Loss: 1.731, MA: 0.4330, Accuracy: 0.4330
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 94 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 34 %
+Accuracy of   [4] : 28 %
+Accuracy of   [5] : 10 %
+Accuracy of   [6] : 54 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[15,   100] loss: 0.650, lr: 0.001000000
+[15,   200] loss: 0.637, lr: 0.001000000
+[15,   300] loss: 0.654, lr: 0.001000000
+[15,   400] loss: 0.654, lr: 0.001000000
+[15,   500] loss: 0.641, lr: 0.001000000
+[15,   600] loss: 0.647, lr: 0.001000000
+[15,   700] loss: 0.649, lr: 0.001000000
+[15,   800] loss: 0.649, lr: 0.001000000
+[15,   900] loss: 0.643, lr: 0.001000000
+[15,  1000] loss: 0.640, lr: 0.001000000
+[15,  1100] loss: 0.651, lr: 0.001000000
+[15,  1124] loss: 0.649, lr: 0.001000000
+Valid Epoch[14] Loss: 1.716, MA: 0.4407, Accuracy: 0.4407
+Accuracy of   [0] : 80 %
+Accuracy of   [1] : 92 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 37 %
+Accuracy of   [4] : 32 %
+Accuracy of   [5] :  9 %
+Accuracy of   [6] : 54 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[16,   100] loss: 0.646, lr: 0.001000000
+[16,   200] loss: 0.649, lr: 0.001000000
+[16,   300] loss: 0.635, lr: 0.001000000
+[16,   400] loss: 0.641, lr: 0.001000000
+[16,   500] loss: 0.652, lr: 0.001000000
+[16,   600] loss: 0.651, lr: 0.001000000
+[16,   700] loss: 0.641, lr: 0.001000000
+[16,   800] loss: 0.640, lr: 0.001000000
+[16,   900] loss: 0.635, lr: 0.001000000
+[16,  1000] loss: 0.640, lr: 0.001000000
+[16,  1100] loss: 0.650, lr: 0.001000000
+[16,  1124] loss: 0.660, lr: 0.001000000
+Valid Epoch[15] Loss: 1.722, MA: 0.4358, Accuracy: 0.4358
+Accuracy of   [0] : 80 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 45 %
+Accuracy of   [3] : 34 %
+Accuracy of   [4] : 31 %
+Accuracy of   [5] : 13 %
+Accuracy of   [6] : 52 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[17,   100] loss: 0.634, lr: 0.001000000
+[17,   200] loss: 0.642, lr: 0.001000000
+[17,   300] loss: 0.653, lr: 0.001000000
+[17,   400] loss: 0.644, lr: 0.001000000
+[17,   500] loss: 0.642, lr: 0.001000000
+[17,   600] loss: 0.631, lr: 0.001000000
+[17,   700] loss: 0.628, lr: 0.001000000
+[17,   800] loss: 0.648, lr: 0.001000000
+[17,   900] loss: 0.653, lr: 0.001000000
+[17,  1000] loss: 0.644, lr: 0.001000000
+[17,  1100] loss: 0.642, lr: 0.001000000
+[17,  1124] loss: 0.632, lr: 0.001000000
+Valid Epoch[16] Loss: 1.760, MA: 0.4322, Accuracy: 0.4323
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 32 %
+Accuracy of   [4] : 28 %
+Accuracy of   [5] : 12 %
+Accuracy of   [6] : 53 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[18,   100] loss: 0.633, lr: 0.001000000
+[18,   200] loss: 0.642, lr: 0.001000000
+[18,   300] loss: 0.642, lr: 0.001000000
+[18,   400] loss: 0.634, lr: 0.001000000
+[18,   500] loss: 0.635, lr: 0.001000000
+[18,   600] loss: 0.646, lr: 0.001000000
+[18,   700] loss: 0.637, lr: 0.001000000
+[18,   800] loss: 0.645, lr: 0.001000000
+[18,   900] loss: 0.635, lr: 0.000100000
+[18,  1000] loss: 0.633, lr: 0.000100000
+[18,  1100] loss: 0.638, lr: 0.000100000
+[18,  1124] loss: 0.657, lr: 0.000100000
+Valid Epoch[17] Loss: 1.704, MA: 0.4408, Accuracy: 0.4407
+Accuracy of   [0] : 77 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 34 %
+Accuracy of   [4] : 31 %
+Accuracy of   [5] : 13 %
+Accuracy of   [6] : 56 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[19,   100] loss: 0.636, lr: 0.000100000
+[19,   200] loss: 0.624, lr: 0.000100000
+[19,   300] loss: 0.625, lr: 0.000100000
+[19,   400] loss: 0.638, lr: 0.000100000
+[19,   500] loss: 0.634, lr: 0.000100000
+[19,   600] loss: 0.631, lr: 0.000100000
+[19,   700] loss: 0.634, lr: 0.000100000
+[19,   800] loss: 0.650, lr: 0.000100000
+[19,   900] loss: 0.623, lr: 0.000100000
+[19,  1000] loss: 0.639, lr: 0.000100000
+[19,  1100] loss: 0.638, lr: 0.000100000
+[19,  1124] loss: 0.649, lr: 0.000100000
+Valid Epoch[18] Loss: 1.705, MA: 0.4430, Accuracy: 0.4430
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 45 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 32 %
+Accuracy of   [5] : 13 %
+Accuracy of   [6] : 56 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[20,   100] loss: 0.627, lr: 0.000100000
+[20,   200] loss: 0.630, lr: 0.000100000
+[20,   300] loss: 0.630, lr: 0.000100000
+[20,   400] loss: 0.644, lr: 0.000100000
+[20,   500] loss: 0.637, lr: 0.000100000
+[20,   600] loss: 0.639, lr: 0.000100000
+[20,   700] loss: 0.631, lr: 0.000100000
+[20,   800] loss: 0.633, lr: 0.000100000
+[20,   900] loss: 0.630, lr: 0.000100000
+[20,  1000] loss: 0.640, lr: 0.000100000
+[20,  1100] loss: 0.625, lr: 0.000100000
+[20,  1124] loss: 0.634, lr: 0.000100000
+Valid Epoch[19] Loss: 1.716, MA: 0.4430, Accuracy: 0.4430
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 30 %
+Accuracy of   [5] : 14 %
+Accuracy of   [6] : 55 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[21,   100] loss: 0.635, lr: 0.000100000
+[21,   200] loss: 0.634, lr: 0.000100000
+[21,   300] loss: 0.624, lr: 0.000100000
+[21,   400] loss: 0.644, lr: 0.000100000
+[21,   500] loss: 0.625, lr: 0.000100000
+[21,   600] loss: 0.641, lr: 0.000100000
+[21,   700] loss: 0.630, lr: 0.000100000
+[21,   800] loss: 0.629, lr: 0.000100000
+[21,   900] loss: 0.630, lr: 0.000100000
+[21,  1000] loss: 0.633, lr: 0.000100000
+[21,  1100] loss: 0.637, lr: 0.000100000
+[21,  1124] loss: 0.616, lr: 0.000100000
+Valid Epoch[20] Loss: 1.700, MA: 0.4435, Accuracy: 0.4435
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 47 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 31 %
+Accuracy of   [5] : 14 %
+Accuracy of   [6] : 54 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[22,   100] loss: 0.635, lr: 0.000100000
+[22,   200] loss: 0.632, lr: 0.000100000
+[22,   300] loss: 0.640, lr: 0.000100000
+[22,   400] loss: 0.632, lr: 0.000100000
+[22,   500] loss: 0.633, lr: 0.000100000
+[22,   600] loss: 0.636, lr: 0.000100000
+[22,   700] loss: 0.626, lr: 0.000100000
+[22,   800] loss: 0.634, lr: 0.000100000
+[22,   900] loss: 0.636, lr: 0.000100000
+[22,  1000] loss: 0.632, lr: 0.000100000
+[22,  1100] loss: 0.624, lr: 0.000100000
+[22,  1124] loss: 0.635, lr: 0.000100000
+Valid Epoch[21] Loss: 1.708, MA: 0.4410, Accuracy: 0.4410
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 92 %
+Accuracy of   [2] : 45 %
+Accuracy of   [3] : 36 %
+Accuracy of   [4] : 31 %
+Accuracy of   [5] : 12 %
+Accuracy of   [6] : 56 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[23,   100] loss: 0.625, lr: 0.000100000
+[23,   200] loss: 0.639, lr: 0.000100000
+[23,   300] loss: 0.633, lr: 0.000100000
+[23,   400] loss: 0.626, lr: 0.000100000
+[23,   500] loss: 0.640, lr: 0.000100000
+[23,   600] loss: 0.625, lr: 0.000100000
+[23,   700] loss: 0.632, lr: 0.000100000
+[23,   800] loss: 0.627, lr: 0.000100000
+[23,   900] loss: 0.632, lr: 0.000100000
+[23,  1000] loss: 0.636, lr: 0.000100000
+[23,  1100] loss: 0.633, lr: 0.000100000
+[23,  1124] loss: 0.636, lr: 0.000100000
+Valid Epoch[22] Loss: 1.692, MA: 0.4485, Accuracy: 0.4485
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 47 %
+Accuracy of   [3] : 36 %
+Accuracy of   [4] : 31 %
+Accuracy of   [5] : 13 %
+Accuracy of   [6] : 56 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[24,   100] loss: 0.623, lr: 0.000100000
+[24,   200] loss: 0.621, lr: 0.000100000
+[24,   300] loss: 0.638, lr: 0.000100000
+[24,   400] loss: 0.638, lr: 0.000100000
+[24,   500] loss: 0.625, lr: 0.000100000
+[24,   600] loss: 0.639, lr: 0.000100000
+[24,   700] loss: 0.629, lr: 0.000100000
+[24,   800] loss: 0.626, lr: 0.000100000
+[24,   900] loss: 0.635, lr: 0.000100000
+[24,  1000] loss: 0.635, lr: 0.000100000
+[24,  1100] loss: 0.631, lr: 0.000100000
+[24,  1124] loss: 0.644, lr: 0.000100000
+Valid Epoch[23] Loss: 1.721, MA: 0.4415, Accuracy: 0.4415
+Accuracy of   [0] : 80 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 45 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 31 %
+Accuracy of   [5] : 12 %
+Accuracy of   [6] : 54 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[25,   100] loss: 0.630, lr: 0.000100000
+[25,   200] loss: 0.639, lr: 0.000100000
+[25,   300] loss: 0.626, lr: 0.000100000
+[25,   400] loss: 0.635, lr: 0.000100000
+[25,   500] loss: 0.631, lr: 0.000100000
+[25,   600] loss: 0.642, lr: 0.000100000
+[25,   700] loss: 0.625, lr: 0.000100000
+[25,   800] loss: 0.624, lr: 0.000100000
+[25,   900] loss: 0.636, lr: 0.000100000
+[25,  1000] loss: 0.626, lr: 0.000100000
+[25,  1100] loss: 0.633, lr: 0.000100000
+[25,  1124] loss: 0.616, lr: 0.000100000
+Valid Epoch[24] Loss: 1.706, MA: 0.4430, Accuracy: 0.4430
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 37 %
+Accuracy of   [4] : 30 %
+Accuracy of   [5] : 13 %
+Accuracy of   [6] : 55 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[26,   100] loss: 0.637, lr: 0.000100000
+[26,   200] loss: 0.632, lr: 0.000100000
+[26,   300] loss: 0.630, lr: 0.000100000
+[26,   400] loss: 0.636, lr: 0.000100000
+[26,   500] loss: 0.632, lr: 0.000100000
+[26,   600] loss: 0.632, lr: 0.000100000
+[26,   700] loss: 0.637, lr: 0.000100000
+[26,   800] loss: 0.621, lr: 0.000100000
+[26,   900] loss: 0.627, lr: 0.000100000
+[26,  1000] loss: 0.628, lr: 0.000100000
+[26,  1100] loss: 0.630, lr: 0.000100000
+[26,  1124] loss: 0.622, lr: 0.000100000
+Valid Epoch[25] Loss: 1.707, MA: 0.4450, Accuracy: 0.4450
+Accuracy of   [0] : 80 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 46 %
+Accuracy of   [3] : 37 %
+Accuracy of   [4] : 30 %
+Accuracy of   [5] : 12 %
+Accuracy of   [6] : 54 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[27,   100] loss: 0.623, lr: 0.000100000
+[27,   200] loss: 0.628, lr: 0.000100000
+[27,   300] loss: 0.643, lr: 0.000100000
+[27,   400] loss: 0.635, lr: 0.000100000
+[27,   500] loss: 0.625, lr: 0.000100000
+[27,   600] loss: 0.633, lr: 0.000100000
+[27,   700] loss: 0.636, lr: 0.000100000
+[27,   800] loss: 0.627, lr: 0.000010000
+[27,   900] loss: 0.627, lr: 0.000010000
+[27,  1000] loss: 0.631, lr: 0.000010000
+[27,  1100] loss: 0.626, lr: 0.000010000
+[27,  1124] loss: 0.626, lr: 0.000010000
+Valid Epoch[26] Loss: 1.704, MA: 0.4435, Accuracy: 0.4435
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 47 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 32 %
+Accuracy of   [5] : 13 %
+Accuracy of   [6] : 55 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[28,   100] loss: 0.626, lr: 0.000010000
+[28,   200] loss: 0.648, lr: 0.000010000
+[28,   300] loss: 0.630, lr: 0.000010000
+[28,   400] loss: 0.637, lr: 0.000010000
+[28,   500] loss: 0.625, lr: 0.000010000
+[28,   600] loss: 0.623, lr: 0.000010000
+[28,   700] loss: 0.623, lr: 0.000010000
+[28,   800] loss: 0.632, lr: 0.000010000
+[28,   900] loss: 0.633, lr: 0.000010000
+[28,  1000] loss: 0.633, lr: 0.000010000
+[28,  1100] loss: 0.625, lr: 0.000010000
+[28,  1124] loss: 0.618, lr: 0.000010000
+Valid Epoch[27] Loss: 1.712, MA: 0.4450, Accuracy: 0.4450
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 47 %
+Accuracy of   [3] : 36 %
+Accuracy of   [4] : 30 %
+Accuracy of   [5] : 14 %
+Accuracy of   [6] : 55 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[29,   100] loss: 0.630, lr: 0.000010000
+[29,   200] loss: 0.628, lr: 0.000010000
+[29,   300] loss: 0.627, lr: 0.000010000
+[29,   400] loss: 0.635, lr: 0.000010000
+[29,   500] loss: 0.630, lr: 0.000010000
+[29,   600] loss: 0.629, lr: 0.000010000
+[29,   700] loss: 0.632, lr: 0.000010000
+[29,   800] loss: 0.636, lr: 0.000010000
+[29,   900] loss: 0.626, lr: 0.000010000
+[29,  1000] loss: 0.632, lr: 0.000010000
+[29,  1100] loss: 0.620, lr: 0.000010000
+[29,  1124] loss: 0.630, lr: 0.000010000
+Valid Epoch[28] Loss: 1.714, MA: 0.4405, Accuracy: 0.4405
+Accuracy of   [0] : 79 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 45 %
+Accuracy of   [3] : 35 %
+Accuracy of   [4] : 29 %
+Accuracy of   [5] : 13 %
+Accuracy of   [6] : 56 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+[30,   100] loss: 0.636, lr: 0.000010000
+[30,   200] loss: 0.639, lr: 0.000010000
+[30,   300] loss: 0.627, lr: 0.000010000
+[30,   400] loss: 0.634, lr: 0.000010000
+[30,   500] loss: 0.632, lr: 0.000010000
+[30,   600] loss: 0.625, lr: 0.000010000
+[30,   700] loss: 0.627, lr: 0.000010000
+[30,   800] loss: 0.630, lr: 0.000010000
+[30,   900] loss: 0.633, lr: 0.000010000
+[30,  1000] loss: 0.623, lr: 0.000010000
+[30,  1100] loss: 0.624, lr: 0.000010000
+[30,  1124] loss: 0.641, lr: 0.000010000
+Valid Epoch[29] Loss: 1.704, MA: 0.4410, Accuracy: 0.4410
+Accuracy of   [0] : 78 %
+Accuracy of   [1] : 93 %
+Accuracy of   [2] : 45 %
+Accuracy of   [3] : 36 %
+Accuracy of   [4] : 30 %
+Accuracy of   [5] : 14 %
+Accuracy of   [6] : 54 %
+Accuracy of   [7] :  0 %
+Model saved to /home/sh/VSRemote/NetworkWithPytorch/AffectNet/CategoricalBaseLine/ImBalance/weights/net.pth
+Over Training......

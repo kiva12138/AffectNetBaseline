@@ -1,0 +1,666 @@
+320739 4500 1253 18
+Data prepare ready ====== 
+Start Training ====== 
+[1,   100] loss: 0.110
+Valid [1,  18] loss: 0.217
+Valid iter[0] loss: 0.217
+[1,   200] loss: 0.109
+Valid [1,  18] loss: 0.217
+Valid iter[0] loss: 0.217
+[1,   300] loss: 0.108
+Valid [1,  18] loss: 0.215
+Valid iter[0] loss: 0.215
+[1,   400] loss: 0.107
+Valid [1,  18] loss: 0.218
+Valid iter[0] loss: 0.218
+[1,   500] loss: 0.108
+Valid [1,  18] loss: 0.217
+Valid iter[0] loss: 0.217
+[1,   600] loss: 0.109
+Valid [1,  18] loss: 0.215
+Valid iter[0] loss: 0.215
+[1,   700] loss: 0.108
+Valid [1,  18] loss: 0.216
+Valid iter[0] loss: 0.216
+[1,   800] loss: 0.108
+Valid [1,  18] loss: 0.217
+Valid iter[0] loss: 0.217
+[1,   900] loss: 0.108
+Valid [1,  18] loss: 0.216
+Valid iter[0] loss: 0.216
+[1,  1000] loss: 0.107
+Valid [1,  18] loss: 0.216
+Valid iter[0] loss: 0.216
+[1,  1100] loss: 0.109
+Valid [1,  18] loss: 0.218
+Valid iter[0] loss: 0.218
+[1,  1200] loss: 0.111
+Valid [1,  18] loss: 0.216
+Valid iter[0] loss: 0.216
+[1,  1253] loss: 0.106
+Valid [1,  18] loss: 0.215
+Valid iter[0] loss: 0.215
+[2,   100] loss: 0.108
+Valid [2,  18] loss: 0.216
+Valid iter[1253] loss: 0.216
+[2,   200] loss: 0.107
+Valid [2,  18] loss: 0.215
+Valid iter[1253] loss: 0.215
+[2,   300] loss: 0.109
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,   400] loss: 0.108
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,   500] loss: 0.108
+Valid [2,  18] loss: 0.215
+Valid iter[1253] loss: 0.215
+[2,   600] loss: 0.106
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,   700] loss: 0.110
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,   800] loss: 0.108
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,   900] loss: 0.108
+Valid [2,  18] loss: 0.214
+Valid iter[1253] loss: 0.214
+[2,  1000] loss: 0.107
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,  1100] loss: 0.110
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,  1200] loss: 0.110
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[2,  1253] loss: 0.107
+Valid [2,  18] loss: 0.217
+Valid iter[1253] loss: 0.217
+[3,   100] loss: 0.109
+Valid [3,  18] loss: 0.216
+Valid iter[2506] loss: 0.216
+[3,   200] loss: 0.107
+Valid [3,  18] loss: 0.217
+Valid iter[2506] loss: 0.217
+[3,   300] loss: 0.109
+Valid [3,  18] loss: 0.216
+Valid iter[2506] loss: 0.216
+[3,   400] loss: 0.106
+Valid [3,  18] loss: 0.216
+Valid iter[2506] loss: 0.216
+[3,   500] loss: 0.108
+Valid [3,  18] loss: 0.217
+Valid iter[2506] loss: 0.217
+[3,   600] loss: 0.108
+Valid [3,  18] loss: 0.216
+Valid iter[2506] loss: 0.216
+[3,   700] loss: 0.106
+Valid [3,  18] loss: 0.216
+Valid iter[2506] loss: 0.216
+[3,   800] loss: 0.111
+Valid [3,  18] loss: 0.219
+Valid iter[2506] loss: 0.219
+[3,   900] loss: 0.109
+Valid [3,  18] loss: 0.216
+Valid iter[2506] loss: 0.216
+[3,  1000] loss: 0.109
+Valid [3,  18] loss: 0.216
+Valid iter[2506] loss: 0.216
+[3,  1100] loss: 0.107
+Valid [3,  18] loss: 0.217
+Valid iter[2506] loss: 0.217
+[3,  1200] loss: 0.108
+Valid [3,  18] loss: 0.217
+Valid iter[2506] loss: 0.217
+[3,  1253] loss: 0.108
+Valid [3,  18] loss: 0.218
+Valid iter[2506] loss: 0.218
+[4,   100] loss: 0.106
+Valid [4,  18] loss: 0.220
+Valid iter[3759] loss: 0.220
+[4,   200] loss: 0.109
+Valid [4,  18] loss: 0.216
+Valid iter[3759] loss: 0.216
+[4,   300] loss: 0.105
+Valid [4,  18] loss: 0.217
+Valid iter[3759] loss: 0.217
+[4,   400] loss: 0.108
+Valid [4,  18] loss: 0.215
+Valid iter[3759] loss: 0.215
+[4,   500] loss: 0.109
+Valid [4,  18] loss: 0.215
+Valid iter[3759] loss: 0.215
+[4,   600] loss: 0.108
+Valid [4,  18] loss: 0.215
+Valid iter[3759] loss: 0.215
+[4,   700] loss: 0.106
+Valid [4,  18] loss: 0.217
+Valid iter[3759] loss: 0.217
+[4,   800] loss: 0.108
+Valid [4,  18] loss: 0.217
+Valid iter[3759] loss: 0.217
+[4,   900] loss: 0.109
+Valid [4,  18] loss: 0.216
+Valid iter[3759] loss: 0.216
+[4,  1000] loss: 0.108
+Valid [4,  18] loss: 0.215
+Valid iter[3759] loss: 0.215
+[4,  1100] loss: 0.110
+Valid [4,  18] loss: 0.217
+Valid iter[3759] loss: 0.217
+[4,  1200] loss: 0.108
+Valid [4,  18] loss: 0.214
+Valid iter[3759] loss: 0.214
+[4,  1253] loss: 0.112
+Valid [4,  18] loss: 0.216
+Valid iter[3759] loss: 0.216
+[5,   100] loss: 0.107
+Valid [5,  18] loss: 0.216
+Valid iter[5012] loss: 0.216
+[5,   200] loss: 0.107
+Valid [5,  18] loss: 0.215
+Valid iter[5012] loss: 0.215
+[5,   300] loss: 0.108
+Valid [5,  18] loss: 0.218
+Valid iter[5012] loss: 0.218
+[5,   400] loss: 0.108
+Valid [5,  18] loss: 0.217
+Valid iter[5012] loss: 0.217
+[5,   500] loss: 0.106
+Valid [5,  18] loss: 0.216
+Valid iter[5012] loss: 0.216
+[5,   600] loss: 0.109
+Valid [5,  18] loss: 0.214
+Valid iter[5012] loss: 0.214
+[5,   700] loss: 0.108
+Valid [5,  18] loss: 0.216
+Valid iter[5012] loss: 0.216
+[5,   800] loss: 0.107
+Valid [5,  18] loss: 0.219
+Valid iter[5012] loss: 0.219
+[5,   900] loss: 0.110
+Valid [5,  18] loss: 0.215
+Valid iter[5012] loss: 0.215
+[5,  1000] loss: 0.107
+Valid [5,  18] loss: 0.215
+Valid iter[5012] loss: 0.215
+[5,  1100] loss: 0.109
+Valid [5,  18] loss: 0.219
+Valid iter[5012] loss: 0.219
+[5,  1200] loss: 0.109
+Valid [5,  18] loss: 0.214
+Valid iter[5012] loss: 0.214
+[5,  1253] loss: 0.108
+Valid [5,  18] loss: 0.216
+Valid iter[5012] loss: 0.216
+[6,   100] loss: 0.107
+Valid [6,  18] loss: 0.217
+Valid iter[6265] loss: 0.217
+[6,   200] loss: 0.109
+Valid [6,  18] loss: 0.214
+Valid iter[6265] loss: 0.214
+[6,   300] loss: 0.107
+Valid [6,  18] loss: 0.214
+Valid iter[6265] loss: 0.214
+[6,   400] loss: 0.107
+Valid [6,  18] loss: 0.216
+Valid iter[6265] loss: 0.216
+[6,   500] loss: 0.106
+Valid [6,  18] loss: 0.216
+Valid iter[6265] loss: 0.216
+[6,   600] loss: 0.109
+Valid [6,  18] loss: 0.215
+Valid iter[6265] loss: 0.215
+[6,   700] loss: 0.110
+Valid [6,  18] loss: 0.218
+Valid iter[6265] loss: 0.218
+[6,   800] loss: 0.110
+Valid [6,  18] loss: 0.217
+Valid iter[6265] loss: 0.217
+[6,   900] loss: 0.110
+Valid [6,  18] loss: 0.214
+Valid iter[6265] loss: 0.214
+[6,  1000] loss: 0.107
+Valid [6,  18] loss: 0.216
+Valid iter[6265] loss: 0.216
+[6,  1100] loss: 0.107
+Valid [6,  18] loss: 0.214
+Valid iter[6265] loss: 0.214
+[6,  1200] loss: 0.107
+Valid [6,  18] loss: 0.213
+Valid iter[6265] loss: 0.213
+[6,  1253] loss: 0.105
+Valid [6,  18] loss: 0.216
+Valid iter[6265] loss: 0.216
+[7,   100] loss: 0.107
+Valid [7,  18] loss: 0.216
+Valid iter[7518] loss: 0.216
+[7,   200] loss: 0.108
+Valid [7,  18] loss: 0.216
+Valid iter[7518] loss: 0.216
+[7,   300] loss: 0.107
+Valid [7,  18] loss: 0.216
+Valid iter[7518] loss: 0.216
+[7,   400] loss: 0.107
+Valid [7,  18] loss: 0.217
+Valid iter[7518] loss: 0.217
+[7,   500] loss: 0.107
+Valid [7,  18] loss: 0.215
+Valid iter[7518] loss: 0.215
+[7,   600] loss: 0.109
+Valid [7,  18] loss: 0.211
+Valid iter[7518] loss: 0.211
+[7,   700] loss: 0.108
+Valid [7,  18] loss: 0.215
+Valid iter[7518] loss: 0.215
+[7,   800] loss: 0.107
+Valid [7,  18] loss: 0.217
+Valid iter[7518] loss: 0.217
+[7,   900] loss: 0.109
+Valid [7,  18] loss: 0.218
+Valid iter[7518] loss: 0.218
+[7,  1000] loss: 0.108
+Valid [7,  18] loss: 0.217
+Valid iter[7518] loss: 0.217
+[7,  1100] loss: 0.107
+Valid [7,  18] loss: 0.216
+Valid iter[7518] loss: 0.216
+[7,  1200] loss: 0.108
+Valid [7,  18] loss: 0.216
+Valid iter[7518] loss: 0.216
+[7,  1253] loss: 0.108
+Valid [7,  18] loss: 0.213
+Valid iter[7518] loss: 0.213
+[8,   100] loss: 0.107
+Valid [8,  18] loss: 0.214
+Valid iter[8771] loss: 0.214
+[8,   200] loss: 0.107
+Valid [8,  18] loss: 0.215
+Valid iter[8771] loss: 0.215
+[8,   300] loss: 0.108
+Valid [8,  18] loss: 0.215
+Valid iter[8771] loss: 0.215
+[8,   400] loss: 0.107
+Valid [8,  18] loss: 0.216
+Valid iter[8771] loss: 0.216
+[8,   500] loss: 0.108
+Valid [8,  18] loss: 0.218
+Valid iter[8771] loss: 0.218
+[8,   600] loss: 0.107
+Valid [8,  18] loss: 0.214
+Valid iter[8771] loss: 0.214
+[8,   700] loss: 0.105
+Valid [8,  18] loss: 0.216
+Valid iter[8771] loss: 0.216
+[8,   800] loss: 0.108
+Valid [8,  18] loss: 0.217
+Valid iter[8771] loss: 0.217
+[8,   900] loss: 0.109
+Valid [8,  18] loss: 0.217
+Valid iter[8771] loss: 0.217
+[8,  1000] loss: 0.108
+Valid [8,  18] loss: 0.213
+Valid iter[8771] loss: 0.213
+[8,  1100] loss: 0.108
+Valid [8,  18] loss: 0.214
+Valid iter[8771] loss: 0.214
+[8,  1200] loss: 0.108
+Valid [8,  18] loss: 0.213
+Valid iter[8771] loss: 0.213
+[8,  1253] loss: 0.109
+Valid [8,  18] loss: 0.213
+Valid iter[8771] loss: 0.213
+[9,   100] loss: 0.107
+Valid [9,  18] loss: 0.215
+Valid iter[10024] loss: 0.215
+[9,   200] loss: 0.106
+Valid [9,  18] loss: 0.216
+Valid iter[10024] loss: 0.216
+[9,   300] loss: 0.107
+Valid [9,  18] loss: 0.218
+Valid iter[10024] loss: 0.218
+[9,   400] loss: 0.109
+Valid [9,  18] loss: 0.214
+Valid iter[10024] loss: 0.214
+[9,   500] loss: 0.105
+Valid [9,  18] loss: 0.214
+Valid iter[10024] loss: 0.214
+[9,   600] loss: 0.107
+Valid [9,  18] loss: 0.215
+Valid iter[10024] loss: 0.215
+[9,   700] loss: 0.108
+Valid [9,  18] loss: 0.212
+Valid iter[10024] loss: 0.212
+[9,   800] loss: 0.108
+Valid [9,  18] loss: 0.215
+Valid iter[10024] loss: 0.215
+[9,   900] loss: 0.108
+Valid [9,  18] loss: 0.216
+Valid iter[10024] loss: 0.216
+[9,  1000] loss: 0.108
+Valid [9,  18] loss: 0.216
+Valid iter[10024] loss: 0.216
+[9,  1100] loss: 0.107
+Valid [9,  18] loss: 0.215
+Valid iter[10024] loss: 0.215
+[9,  1200] loss: 0.108
+Valid [9,  18] loss: 0.217
+Valid iter[10024] loss: 0.217
+[9,  1253] loss: 0.103
+Valid [9,  18] loss: 0.215
+Valid iter[10024] loss: 0.215
+[10,   100] loss: 0.107
+Valid [10,  18] loss: 0.213
+Valid iter[11277] loss: 0.213
+[10,   200] loss: 0.108
+Valid [10,  18] loss: 0.217
+Valid iter[11277] loss: 0.217
+[10,   300] loss: 0.106
+Valid [10,  18] loss: 0.214
+Valid iter[11277] loss: 0.214
+[10,   400] loss: 0.107
+Valid [10,  18] loss: 0.214
+Valid iter[11277] loss: 0.214
+[10,   500] loss: 0.107
+Valid [10,  18] loss: 0.212
+Valid iter[11277] loss: 0.212
+[10,   600] loss: 0.105
+Valid [10,  18] loss: 0.217
+Valid iter[11277] loss: 0.217
+[10,   700] loss: 0.108
+Valid [10,  18] loss: 0.215
+Valid iter[11277] loss: 0.215
+[10,   800] loss: 0.106
+Valid [10,  18] loss: 0.215
+Valid iter[11277] loss: 0.215
+[10,   900] loss: 0.107
+Valid [10,  18] loss: 0.217
+Valid iter[11277] loss: 0.217
+[10,  1000] loss: 0.108
+Valid [10,  18] loss: 0.216
+Valid iter[11277] loss: 0.216
+[10,  1100] loss: 0.106
+Valid [10,  18] loss: 0.214
+Valid iter[11277] loss: 0.214
+[10,  1200] loss: 0.107
+Valid [10,  18] loss: 0.215
+Valid iter[11277] loss: 0.215
+[10,  1253] loss: 0.106
+Valid [10,  18] loss: 0.213
+Valid iter[11277] loss: 0.213
+[11,   100] loss: 0.104
+Valid [11,  18] loss: 0.213
+Valid iter[12530] loss: 0.213
+[11,   200] loss: 0.106
+Valid [11,  18] loss: 0.215
+Valid iter[12530] loss: 0.215
+[11,   300] loss: 0.108
+Valid [11,  18] loss: 0.215
+Valid iter[12530] loss: 0.215
+[11,   400] loss: 0.106
+Valid [11,  18] loss: 0.215
+Valid iter[12530] loss: 0.215
+[11,   500] loss: 0.107
+Valid [11,  18] loss: 0.214
+Valid iter[12530] loss: 0.214
+[11,   600] loss: 0.106
+Valid [11,  18] loss: 0.215
+Valid iter[12530] loss: 0.215
+[11,   700] loss: 0.108
+Valid [11,  18] loss: 0.212
+Valid iter[12530] loss: 0.212
+[11,   800] loss: 0.105
+Valid [11,  18] loss: 0.213
+Valid iter[12530] loss: 0.213
+[11,   900] loss: 0.108
+Valid [11,  18] loss: 0.213
+Valid iter[12530] loss: 0.213
+[11,  1000] loss: 0.107
+Valid [11,  18] loss: 0.218
+Valid iter[12530] loss: 0.218
+[11,  1100] loss: 0.106
+Valid [11,  18] loss: 0.214
+Valid iter[12530] loss: 0.214
+[11,  1200] loss: 0.107
+Valid [11,  18] loss: 0.212
+Valid iter[12530] loss: 0.212
+[11,  1253] loss: 0.106
+Valid [11,  18] loss: 0.211
+Valid iter[12530] loss: 0.211
+[12,   100] loss: 0.107
+Valid [12,  18] loss: 0.210
+Valid iter[13783] loss: 0.210
+[12,   200] loss: 0.106
+Valid [12,  18] loss: 0.212
+Valid iter[13783] loss: 0.212
+[12,   300] loss: 0.106
+Valid [12,  18] loss: 0.217
+Valid iter[13783] loss: 0.217
+[12,   400] loss: 0.105
+Valid [12,  18] loss: 0.214
+Valid iter[13783] loss: 0.214
+[12,   500] loss: 0.107
+Valid [12,  18] loss: 0.212
+Valid iter[13783] loss: 0.212
+[12,   600] loss: 0.106
+Valid [12,  18] loss: 0.216
+Valid iter[13783] loss: 0.216
+[12,   700] loss: 0.106
+Valid [12,  18] loss: 0.215
+Valid iter[13783] loss: 0.215
+[12,   800] loss: 0.105
+Valid [12,  18] loss: 0.215
+Valid iter[13783] loss: 0.215
+[12,   900] loss: 0.108
+Valid [12,  18] loss: 0.217
+Valid iter[13783] loss: 0.217
+[12,  1000] loss: 0.105
+Valid [12,  18] loss: 0.215
+Valid iter[13783] loss: 0.215
+[12,  1100] loss: 0.105
+Valid [12,  18] loss: 0.213
+Valid iter[13783] loss: 0.213
+[12,  1200] loss: 0.106
+Valid [12,  18] loss: 0.214
+Valid iter[13783] loss: 0.214
+[12,  1253] loss: 0.105
+Valid [12,  18] loss: 0.215
+Valid iter[13783] loss: 0.215
+[13,   100] loss: 0.107
+Valid [13,  18] loss: 0.212
+Valid iter[15036] loss: 0.212
+[13,   200] loss: 0.107
+Valid [13,  18] loss: 0.213
+Valid iter[15036] loss: 0.213
+[13,   300] loss: 0.104
+Valid [13,  18] loss: 0.216
+Valid iter[15036] loss: 0.216
+[13,   400] loss: 0.106
+Valid [13,  18] loss: 0.211
+Valid iter[15036] loss: 0.211
+[13,   500] loss: 0.106
+Valid [13,  18] loss: 0.211
+Valid iter[15036] loss: 0.211
+[13,   600] loss: 0.105
+Valid [13,  18] loss: 0.213
+Valid iter[15036] loss: 0.213
+[13,   700] loss: 0.104
+Valid [13,  18] loss: 0.211
+Valid iter[15036] loss: 0.211
+[13,   800] loss: 0.105
+Valid [13,  18] loss: 0.214
+Valid iter[15036] loss: 0.214
+[13,   900] loss: 0.106
+Valid [13,  18] loss: 0.208
+Valid iter[15036] loss: 0.208
+[13,  1000] loss: 0.105
+Valid [13,  18] loss: 0.211
+Valid iter[15036] loss: 0.211
+[13,  1100] loss: 0.107
+Valid [13,  18] loss: 0.215
+Valid iter[15036] loss: 0.215
+[13,  1200] loss: 0.105
+Valid [13,  18] loss: 0.208
+Valid iter[15036] loss: 0.208
+[13,  1253] loss: 0.104
+Valid [13,  18] loss: 0.210
+Valid iter[15036] loss: 0.210
+[14,   100] loss: 0.104
+Valid [14,  18] loss: 0.211
+Valid iter[16289] loss: 0.211
+[14,   200] loss: 0.103
+Valid [14,  18] loss: 0.214
+Valid iter[16289] loss: 0.214
+[14,   300] loss: 0.106
+Valid [14,  18] loss: 0.214
+Valid iter[16289] loss: 0.214
+[14,   400] loss: 0.104
+Valid [14,  18] loss: 0.209
+Valid iter[16289] loss: 0.209
+[14,   500] loss: 0.105
+Valid [14,  18] loss: 0.214
+Valid iter[16289] loss: 0.214
+[14,   600] loss: 0.107
+Valid [14,  18] loss: 0.209
+Valid iter[16289] loss: 0.209
+[14,   700] loss: 0.104
+Valid [14,  18] loss: 0.212
+Valid iter[16289] loss: 0.212
+[14,   800] loss: 0.104
+Valid [14,  18] loss: 0.207
+Valid iter[16289] loss: 0.207
+[14,   900] loss: 0.105
+Valid [14,  18] loss: 0.206
+Valid iter[16289] loss: 0.206
+[14,  1000] loss: 0.104
+Valid [14,  18] loss: 0.213
+Valid iter[16289] loss: 0.213
+[14,  1100] loss: 0.103
+Valid [14,  18] loss: 0.208
+Valid iter[16289] loss: 0.208
+[14,  1200] loss: 0.104
+Valid [14,  18] loss: 0.210
+Valid iter[16289] loss: 0.210
+[14,  1253] loss: 0.104
+Valid [14,  18] loss: 0.213
+Valid iter[16289] loss: 0.213
+[15,   100] loss: 0.104
+Valid [15,  18] loss: 0.208
+Valid iter[17542] loss: 0.208
+[15,   200] loss: 0.104
+Valid [15,  18] loss: 0.210
+Valid iter[17542] loss: 0.210
+[15,   300] loss: 0.102
+Valid [15,  18] loss: 0.215
+Valid iter[17542] loss: 0.215
+[15,   400] loss: 0.102
+Valid [15,  18] loss: 0.206
+Valid iter[17542] loss: 0.206
+[15,   500] loss: 0.103
+Valid [15,  18] loss: 0.211
+Valid iter[17542] loss: 0.211
+[15,   600] loss: 0.105
+Valid [15,  18] loss: 0.203
+Valid iter[17542] loss: 0.203
+[15,   700] loss: 0.104
+Valid [15,  18] loss: 0.212
+Valid iter[17542] loss: 0.212
+[15,   800] loss: 0.104
+Valid [15,  18] loss: 0.209
+Valid iter[17542] loss: 0.209
+[15,   900] loss: 0.103
+Valid [15,  18] loss: 0.206
+Valid iter[17542] loss: 0.206
+[15,  1000] loss: 0.103
+Valid [15,  18] loss: 0.214
+Valid iter[17542] loss: 0.214
+[15,  1100] loss: 0.104
+Valid [15,  18] loss: 0.208
+Valid iter[17542] loss: 0.208
+[15,  1200] loss: 0.103
+Valid [15,  18] loss: 0.214
+Valid iter[17542] loss: 0.214
+[15,  1253] loss: 0.104
+Valid [15,  18] loss: 0.209
+Valid iter[17542] loss: 0.209
+[16,   100] loss: 0.104
+Valid [16,  18] loss: 0.209
+Valid iter[18795] loss: 0.209
+[16,   200] loss: 0.104
+Valid [16,  18] loss: 0.208
+Valid iter[18795] loss: 0.208
+[16,   300] loss: 0.102
+Valid [16,  18] loss: 0.201
+Valid iter[18795] loss: 0.201
+[16,   400] loss: 0.103
+Valid [16,  18] loss: 0.211
+Valid iter[18795] loss: 0.211
+[16,   500] loss: 0.104
+Valid [16,  18] loss: 0.210
+Valid iter[18795] loss: 0.210
+[16,   600] loss: 0.102
+Valid [16,  18] loss: 0.211
+Valid iter[18795] loss: 0.211
+[16,   700] loss: 0.101
+Valid [16,  18] loss: 0.209
+Valid iter[18795] loss: 0.209
+[16,   800] loss: 0.102
+Valid [16,  18] loss: 0.206
+Valid iter[18795] loss: 0.206
+[16,   900] loss: 0.102
+Valid [16,  18] loss: 0.209
+Valid iter[18795] loss: 0.209
+[16,  1000] loss: 0.103
+Valid [16,  18] loss: 0.203
+Valid iter[18795] loss: 0.203
+[16,  1100] loss: 0.102
+Valid [16,  18] loss: 0.210
+Valid iter[18795] loss: 0.210
+[16,  1200] loss: 0.102
+Valid [16,  18] loss: 0.202
+Valid iter[18795] loss: 0.202
+[16,  1253] loss: 0.103
+Valid [16,  18] loss: 0.205
+Valid iter[18795] loss: 0.205
+[17,   100] loss: 0.102
+Valid [17,  18] loss: 0.209
+Valid iter[20048] loss: 0.209
+[17,   200] loss: 0.104
+Valid [17,  18] loss: 0.210
+Valid iter[20048] loss: 0.210
+[17,   300] loss: 0.102
+Valid [17,  18] loss: 0.211
+Valid iter[20048] loss: 0.211
+[17,   400] loss: 0.101
+Valid [17,  18] loss: 0.204
+Valid iter[20048] loss: 0.204
+[17,   500] loss: 0.100
+Valid [17,  18] loss: 0.205
+Valid iter[20048] loss: 0.205
+[17,   600] loss: 0.102
+Valid [17,  18] loss: 0.201
+Valid iter[20048] loss: 0.201
+[17,   700] loss: 0.100
+Valid [17,  18] loss: 0.205
+Valid iter[20048] loss: 0.205
+[17,   800] loss: 0.102
+Valid [17,  18] loss: 0.210
+Valid iter[20048] loss: 0.210
+[17,   900] loss: 0.103
+Valid [17,  18] loss: 0.200
+Valid iter[20048] loss: 0.200
+[17,  1000] loss: 0.102
+Valid [17,  18] loss: 0.202
+Valid iter[20048] loss: 0.202
+[17,  1100] loss: 0.102
+Valid [17,  18] loss: 0.213
+Valid iter[20048] loss: 0.213
+[17,  1200] loss: 0.101
+Valid [17,  18] loss: 0.217
+Valid iter[20048] loss: 0.217
+Early Stop ====== 
+Training Over ====== 
+Model Saved to /home/sh/VSRemote/NetworkWithPytorch/AlexNet/Arousal/weights/net.pth ====== 
